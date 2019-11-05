@@ -2,8 +2,8 @@
 
 Pada modul kali ini, kita akan belajar mengenai Pointer dan Struct. Kedua elemen ini sangat krusial karena akan terus digunakan khususnya pada mata kuliah Struktur Data.
 
-- [Materi Pointer](pointer/README.md)
-- [Materi Struct](struct/README.md)
+- [Materi Pointer](/pointer/README.md)
+- [Materi Struct](/struct/README.md)
 
 ## Soal Latihan
 

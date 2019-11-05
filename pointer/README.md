@@ -294,6 +294,6 @@ int main()
 }
 ```
 
-[Lanjut ke Struct >](https://github.com/AlproITS/DP_modul-4/tree/master/struct)
+[Lanjut ke Struct >](/struct/README.md)
 
-[Halaman Awal >](https://github.com/AlproITS/DP_modul-4)
+[Halaman Awal >](/README.md)

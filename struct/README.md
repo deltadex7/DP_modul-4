@@ -2,7 +2,7 @@
 
 ## Daftar Isi
 
-- [Halaman Awal](../README.md)
+- [Halaman Awal](/README.md)
 - [Pengenalan Struct](#pengenalan-struct)
 - [Deklarasi Struct](#deklarasi-struct)
 - [Variabel Struct](#variabel-struct)
@@ -149,6 +149,6 @@ int main()
 }
 ```
 
-[Lanjut ke Pointer >](https://github.com/AlproITS/DP_modul-4/tree/master/pointer)
+[Lanjut ke Pointer >](/pointer/README.md)
 
-[Halaman Awal >](https://github.com/AlproITS/DP_modul-4)
+[Halaman Awal >](/README.md)
