@@ -2,7 +2,7 @@
 
 ## Daftar Isi
 
-- [Halaman Awal](https://github.com/AlproITS/DP_modul-4)
+- [Halaman Awal](../README.md)
 - [Pengenalan Struct](#pengenalan-struct)
 - [Deklarasi Struct](#deklarasi-struct)
 - [Variabel Struct](#variabel-struct)

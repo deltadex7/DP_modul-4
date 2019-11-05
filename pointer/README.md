@@ -2,7 +2,7 @@
 
 ## Daftar Isi
 
-- [Halaman Awal](https://github.com/AlproITS/DP_modul-4)
+- [Halaman Awal](../README.md)
 - [Alamat Memori](#alamat-memori)
 - [Pengenalan Pointer](#pengenalan-pointer)
 - [Pointer dan Array](#pointer-dan-array)
